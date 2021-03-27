@@ -1,0 +1,14 @@
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Debug\windows calculator.exe.config
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Debug\windows calculator.exe
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Debug\windows calculator.pdb
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows calculator.csprojAssemblyReference.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows_calculator.Form1.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows_calculator.Properties.Resources.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows calculator.csproj.GenerateResource.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows calculator.csproj.CoreCompileInputs.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows calculator.exe
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows calculator.pdb
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows_calculator.Form2.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Debug\en\windows calculator.resources.dll
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\windows_calculator.Form1.en.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Debug\en\windows calculator.resources.dll

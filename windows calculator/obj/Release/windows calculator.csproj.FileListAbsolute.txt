@@ -1,0 +1,14 @@
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Release\windows calculator.exe.config
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Release\windows calculator.exe
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Release\windows calculator.pdb
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows calculator.csprojAssemblyReference.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows_calculator.Form1.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows_calculator.Form2.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows_calculator.Properties.Resources.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows calculator.csproj.GenerateResource.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows calculator.csproj.CoreCompileInputs.cache
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows calculator.exe
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows calculator.pdb
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\bin\Release\en\windows calculator.resources.dll
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\windows_calculator.Form1.en.resources
+C:\Users\bhanuka kamantha\Desktop\windows calculator\windows calculator\windows calculator\obj\Release\en\windows calculator.resources.dll
